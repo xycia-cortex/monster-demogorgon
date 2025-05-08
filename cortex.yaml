@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-demogorgon
+  x-cortex-tag: monster-demogorgon
+  x-cortex-custom-metadata:
+    alignment: chaotic-evil
+    type: fiend
+    challenge_rating: 26
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-demogorgon
+      alias: github-token-test
